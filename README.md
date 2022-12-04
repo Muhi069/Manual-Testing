@@ -5,4 +5,10 @@ Manual Testing is a type of software testing in which test cases are executed ma
 
 Content of the Files:
 
-Each files hold: Test Plan, Test Cases, Test Report, Bug Report, Test Matrices, MindMap
+Each files hold the following information:
+1. Test Plan 
+2. Test Cases
+3. Test Report 
+4. Bug Report
+5. Test Matrices
+6. MindMap
